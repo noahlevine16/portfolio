@@ -85,7 +85,7 @@ Group Mates: Livesey Pack, Wladka Kijewska
 
 This interactive map of Philadelphia depicts the percentage of renter-occupied homes per 2010 census block in relation to institutions of higher education. My hypothesis was that the share of renter-occupied housing would be higher around colleges and universities, in light of the transient student population. While this holds true for West Philadelphia (University of Pennsylvania and Drexel University), it doesn't hold true for North Philadelphia (Temple University). It demonstrates the following skill:
 
-![](maps/interactive.png)(https://noahlevine16.github.io/portfolio/maps/interactive.html){target="_blank"}
+[![](maps/interactive.png)](https://noahlevine16.github.io/portfolio/maps/interactive.html)
 
 It demonstrates the following skill:
 
